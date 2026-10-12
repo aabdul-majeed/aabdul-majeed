@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ahmed Abdul-Majeed
 
-<!--
-**aabdul-majeed/aabdul-majeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Human Physiology → software. I build and ship things people use.
 
-Here are some ideas to get you started:
+### 🎮 Silhouettele: [silhouettele.cc](https://silhouettele.cc)
+A daily puzzle game: guess the famous building from its silhouette.
+**React 19 · FastAPI (Python) · Supabase · Vercel + Railway.** Designed, built and shipped solo under Loopstone Games.
+→ [Source code](https://github.com/LoopstoneGames/Silhouettele)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** MSc research in neuromuscular physiology (data collection and statistical analysis) · 4 years tutoring GCSE/A-Level sciences and UCAT.
+**Now:** deepening Python and building analytics on Silhouettele's real play data.
+
+📫 aabdul-majeed@hotmail.com · [LinkedIn](https://www.linkedin.com/in/aabdul-majeed/)
+```
